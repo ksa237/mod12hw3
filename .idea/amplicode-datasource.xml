@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AmplicodeJpaDataSourceConfig">
+    <data-sources>
+      <data-source id="9c97492d-ce1f-40da-9bd2-c833005023c0" name="postgres" url="jdbc:postgresql://localhost:5432/postgres" driverClass="org.postgresql.Driver" />
+    </data-sources>
+    <option name="preferredDataSourceId" value="9c97492d-ce1f-40da-9bd2-c833005023c0" />
+  </component>
+</project>
