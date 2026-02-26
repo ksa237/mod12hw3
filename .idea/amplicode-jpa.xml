@@ -3,6 +3,7 @@
   <component name="AmplicodeJpaIdeaProjectConfig">
     <option name="defaultUnitInitialized" value="true" />
     <option name="renamerInitialized" value="true" />
+    <option name="snapshotDbValue" value="9c97492d-ce1f-40da-9bd2-c833005023c0" />
     <option name="newEntityIdType" value="Long" />
     <option name="newEntityIdStrategy" value="Auto" />
   </component>
